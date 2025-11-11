@@ -25,8 +25,8 @@
 
 ## 🚀 Установка и запуск
 ```bash
-git clone <ссылка-на-репозиторий>
-cd <папка-проекта>
+git clone <https://github.com/TheSunlitMan/Face-Mask-Detector.git>
+cd <Face-Mask-Detector>
 jupyter notebook mask_Fase.ipynb
 ```
 
