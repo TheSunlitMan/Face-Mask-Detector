@@ -27,7 +27,7 @@
 ```bash
 git clone <https://github.com/TheSunlitMan/Face-Mask-Detector.git>
 cd <Face-Mask-Detector>
-jupyter notebook mask_Fase.ipynb
+jupyter notebook mask_detection.ipynb
 ```
 
 ## 📄 Лицензия
